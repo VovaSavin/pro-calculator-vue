@@ -1,0 +1,59 @@
+.fonts {
+    font-size: 12px;
+    padding-right: calc\(var(--bs-gutter-x) * .3 !important;
+    padding-left: calc\(var(--bs-gutter-x) * .3 !important;
+}
+
+.row {
+    --bs-gutter-x: 0;
+}
+
+.wrapper_col,
+.wrapper_col_fields {
+    border-bottom: 1px solid gray;
+}
+
+.analogs_address {
+    cursor: pointer;
+}
+
+.active_full_address {
+    color: rgb(79, 79, 160);
+    font-weight: bolder;
+}
+
+.active_get_on_map {
+    color: black;
+    font-weight: bolder;
+}
+
+.wrapper_col_fields {
+    color: #039284;
+    font-weight: bolder;
+}
+
+.cols,
+.cols_name {
+    background-color: rgb(216, 216, 216);
+    height: 50px;
+    margin: auto;
+}
+
+.cols_1,
+.cols_1_name {
+    background-color: rgb(234, 236, 236);
+    height: 50px;
+    margin: auto;
+}
+
+.cols_1_name,
+.cols_name {
+    height: 70px;
+}
+
+.active-link {
+    color: #0d6efd !important;
+    border-bottom: 2px solid #478ac9 !important;
+    border-radius: 0px !important;
+    stroke: none;
+}

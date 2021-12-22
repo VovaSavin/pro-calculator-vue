@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+
+    <ellipse rx="15" ry="25" fill="#eb0303" cx="115" cy="85" />
+    <ellipse rx="25" ry="40" fill="#fff" cx="140" cy="110" />
+    <ellipse rx="25" ry="35" fill="#fff" cx="91" cy="110" />
+    <ellipse rx="5" ry="5" fill="#6d0000" cx="115" cy="80" />
+    <!-- <ellipse rx="15" ry="25" fill="#eb0303" cx="115" cy="85" /> -->
+</svg>
